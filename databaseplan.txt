@@ -1,0 +1,52 @@
+1st section: Hero
+Name
+Designation
+email
+phone number
+social link -> multiple
+
+2nd section: About me
+Name
+Title
+skills
+resume
+
+3rd section : WHAT I dO
+icon_class
+title
+descriptions
+
+4th Section:
+Skills Type
+skill name
+skill percentage
+
+
+5th section
+Experince type
+title
+institutions
+starting year
+end year
+descriptions
+
+
+Recent Portfolio 6th section
+category
+image
+title
+description
+technology
+demo_link
+
+Review Section
+image
+text
+name
+position
+company_name
+
+Contact me
+Address -> multiple
+Email -> multiple
+Phone -> multiple
